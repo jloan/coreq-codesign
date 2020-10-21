@@ -1,1 +1,1 @@
-# coreq_codesign
+# coreq-codesign
